@@ -16,14 +16,14 @@ pip install lolcat
 
 pip install requests
 
-git clone https://github.com/noob-hackers/ipdrone
+git clone https://github.com/C-scripting101/CARL-TRACKER.git
 
 cd $HOME
 
 ls
 
-cd ipdrone
+cd c-scripting101
 
 ls
 
-python ipdrone.py -v (your victim ip here)
+python CARL-TRACKER.py -v (your victim ip here)
