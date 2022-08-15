@@ -16,7 +16,7 @@ pip install lolcat
 
 pip install requests
 
-git clone https://github.com/C-scripting101/CARL-TRACKER.git
+git clone https://github.com/C-scripting101/CARL-TRACKER
 
 cd $HOME
 
