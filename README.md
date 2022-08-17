@@ -22,7 +22,7 @@ cd $HOME
 
 ls
 
-cd c-scripting101
+cd CARL-TRACKER
 
 ls
 
