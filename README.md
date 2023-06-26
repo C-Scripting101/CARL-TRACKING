@@ -1,9 +1,8 @@
-# CARL-TRACKING TOOL
+# CARL-TRACKING T
+
 
 <ul>
   
-<li> apt-get update -y <li>
-
 <li> apt-get upgrade -y </li>
 
 <li> pkg install python -y </li>
