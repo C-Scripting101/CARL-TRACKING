@@ -1,29 +1,28 @@
-# CARL-TRACKING
-CARL-TRACKING TOOL
+# CARL-TRACKING TOOL
 
+<ul>
+<li> apt-get update -y <li>
 
-apt-get update -y
+<li> apt-get upgrade -y </li>
 
-apt-get upgrade -y
+<li> pkg install python -y </li>
 
-pkg install python -y
+<li> pkg install python2 -y </li>
 
-pkg install python2 -y
+<li> pkg install git -y </li>
 
-pkg install git -y
+<li> pip install lolcat </li>
 
-pip install lolcat
+<li> pip install requests </li>
 
-pip install requests
+<li> git clone https://github.com/C-scripting101/CARL-TRACKING.git </li>
 
-git clone https://github.com/C-scripting101/CARL-TRACKING.git
+<li> cd $HOME </li>
 
-cd $HOME
+<li> ls </li>
 
-ls
+<li> cd CARL-TRACKING </li>
 
-cd CARL-TRACKING
+<li> python C4RL-7R4CK1NG.py -v (your victim ip here) </li>
 
-ls
-
-python C4RL-7R4CK1NG.py -v (your victim ip here)
+</ul>
