@@ -1,4 +1,4 @@
-#coded by C CraZe Hckz (C-Scripting101)
+#coded by C CraZe Hckz (HckZ CraZe C)
 
 #modules required
 import argparse
