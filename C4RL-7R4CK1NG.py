@@ -1,4 +1,4 @@
-#coded by CARL HACKZ (C-Scripting101)
+#coded by C CraZe Hckz (C-Scripting101)
 
 #modules required
 import argparse
@@ -42,8 +42,8 @@ print (red+"""
 ░░░░░░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░
                                                       v 1.0
 """+red)
-print (lgreen+bold+"         <===[[ coded by: CARL HACKZ ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on facebook: Carl Hackz ))--> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by: C CraZe Hckz ]]===> \n"+clear)
+print (yellow+bold+"   <---(( search on facebook: C CraZe Hckz ))--> \n"+clear)
 
 
 ip = args.target
