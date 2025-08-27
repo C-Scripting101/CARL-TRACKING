@@ -17,7 +17,7 @@
 
 <li> pip install requests </li>
 
-<li> https://github.com/HckZ-CraZe-C/C-7R4CKING.git </li>
+<li> git clone https://github.com/HckZ-CraZe-C/C-7R4CKING.git </li>
 
 <li> cd $HOME </li>
 
