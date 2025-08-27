@@ -17,14 +17,14 @@
 
 <li> pip install requests </li>
 
-<li> git clone https://github.com/C-scripting101/C-TRACKING.git </li>
+<li> https://github.com/HckZ-CraZe-C/C-7R4CKING.git </li>
 
 <li> cd $HOME </li>
 
 <li> ls </li>
 
-<li> cd CARL-TRACKING </li>
+<li> cd C-7RCKING </li>
 
-<li> python C-7R4CK1NG.py -v (your victim ip here) </li>
+<li> python C-7R4CKING.py -v (your victim ip here) </li>
 
 </ul>
